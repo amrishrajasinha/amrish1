@@ -10,6 +10,8 @@ public class Employee1 {
 		
 		companyname = cName;
 		System.out.println("Constructor of employee is called for value :  " +companyname);
+
+		System.out.println("Constructor of employee is called for value :  " +companyname);
 	
 	}
 	
